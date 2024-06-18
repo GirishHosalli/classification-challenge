@@ -1,7 +1,7 @@
 # classification-challenge  
-## This challenge uses a dataset, provided by ISP, containing email information and two possible classifications: spam and not spam.  
-## take this dataset and develop a supervised machine learning (ML) model that will accurately detect spam emails so it can filter them out of its customers' inboxes.  
-## Two classification models were created to fit the dataset and evaluate the models.  
+### This challenge uses a dataset, provided by ISP, containing email information and two possible classifications: spam and not spam.  
+### take this dataset and develop a supervised machine learning (ML) model that will accurately detect spam emails so it can filter them out of its customers' inboxes.  
+### Two classification models were created to fit the dataset and evaluate the models.  
 First data was split into X_train, X_test, y_train, y_test using **train_test_split**  
 Then StandardScaler was used to scale the features data.  
 Logistic Regression Model was created and fit and predict.  
@@ -20,7 +20,8 @@ Created Random Forest Classiifer model by varying n_estimators values from 50 to
 ![alt text](image-1.png)  
 
 
-Confusion Matrix - 
+Confusion Matrix -  
+
 ![alt text](image-3.png)  
 
 After evaluating additional metrics it appears Random Forest model is a better fit.  
