@@ -19,9 +19,8 @@ Created Random Forest Classiifer model by varying n_estimators values from 50 to
      
 ![alt text](image-1.png)  
 
-![alt text](image-2.png)  
 
 Confusion Matrix - 
-![alt text](image-3.png)
+![alt text](image-3.png)  
 
 After evaluating additional metrics it appears Random Forest model is a better fit.  
